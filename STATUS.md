@@ -46,3 +46,12 @@ No interpretar estas cifras como aprobaciones financieras ni validar la sede o l
 - 2026-10-31: inicialización documental del hub, conforme a instrucciones comunicadas en nombre de David. Única decisión aprobada registrada: [ADR 0001](decisions/0001-fuente-de-verdad.md).
 
 **Para cerrar tareas:** actualizar este estado mediante PR tras la carga inicial, sin convertir suposiciones en hechos.
+
+## Verificación y cierre de la carga inicial
+
+Responsable: Codex · 2026-10-31.
+- Repositorio privado y rama main verificados mediante GitHub.
+- Se conservó una carga concurrente y se completaron navegación, remisión de CLAUDE y entrega de sesión.
+- Fuente de los datos reportados y financieros: [instrucciones de inicialización](https://chatgpt.com/c/6ae54d93-65dc-83ea-98ce-2f69536b05bf), recuperadas el 2026-10-31; soportes originales y versión del modelo pendientes de validar.
+- Protección de main pendiente: la integración disponible no permite configurarla. Ramas y PR siguen siendo la regla después de esta carga.
+- Entrega: [handoff inicial](handoffs/2026-10-31-codex-carga-inicial.md).
