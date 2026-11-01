@@ -47,3 +47,8 @@ Estado: **Propuesta**, pendiente de David.
   - Sesión de fotos reales.
   - Brand Kit de Canva.
   - Prueba de imprenta.
+
+## Actualización 2026-11-01, 14:20
+
+- Las 3 plantillas PNG corregidas ya están en el Drive (Kit de marca › 5-Plantillas-redes). Se subieron con Google Drive para escritorio en el Mac de David, con la cuenta institucional.
+- También se actualizaron en el Drive el LEEME del kit, el índice de marca y el enlace al lienzo. Ya no tienen el pendiente de subida.
