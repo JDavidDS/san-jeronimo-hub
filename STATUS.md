@@ -19,6 +19,7 @@
 | Oferta | Software con IA, Administrativo en Salud, Marketing/Ventas, Enfermería | Factibilidad, programas a abrir, requisitos y mallas |
 | Prácticas | Posible convenio con Clínica La Esperanza | Condiciones y formalización |
 | Calendario | Inicio previsto febrero 2027; cohortes feb/ago de 30 | Licenciamiento, demanda y capacidad |
+| Marca | Sistema v1.0 completo: manual, Design System, kit de logos y plantillas de redes. Propuesto en [ADR 0002](decisions/0002-identidad-de-marca.md) | Aprobación de David; validación con público; SIC; derechos de Design Colibrí; subir el kit al Drive |
 
 No interpretar estas cifras como aprobaciones financieras ni validar la sede o los programas antes de concluir verificaciones.
 
@@ -31,6 +32,9 @@ No interpretar estas cifras como aprobaciones financieras ni validar la sede o l
 - [ ] Recalibrar el modelo financiero, flujo de caja, demanda, costos fijos, precios y escenarios de financiación.
 - [ ] Definir alcance, contenido y diseño de la página web; crear posteriormente el repositorio privado `san-jeronimo-web`.
 - [ ] Verificar y enlazar soportes documentales en [RESOURCES.md](RESOURCES.md).
+- [ ] Decidir el [ADR 0002 — Identidad de marca v1.0](decisions/0002-identidad-de-marca.md) (solo David).
+- [ ] Validar la marca con 10 a 15 bachilleres y familias de Montería antes de producir piezas físicas.
+- [ ] Subir el kit ISJ-marca-v2 a la carpeta de marca del Drive y enlazarlo en RESOURCES.
 
 ## Preguntas abiertas — no decididas
 
@@ -42,6 +46,8 @@ No interpretar estas cifras como aprobaciones financieras ni validar la sede o l
 6. ¿Se llegará a febrero de 2027 con los permisos exigibles?
 
 ## Cambios de esta sesión
+
+- 2026-11-01: Claude propone el [ADR 0002](decisions/0002-identidad-de-marca.md), Identidad de marca v1.0, en estado **Propuesta**. Enlaza los entregables de marca. No se registra ninguna aprobación nueva.
 
 - 2026-10-31: inicialización documental del hub, conforme a instrucciones comunicadas en nombre de David. Única decisión aprobada registrada: [ADR 0001](decisions/0001-fuente-de-verdad.md).
 
