@@ -15,4 +15,4 @@ Un archivo Markdown por decisión; conservar el historial. Copiar [0000-template
 | ADR | Tema | Estado | Fecha |
 | --- | --- | --- | --- |
 | [0001](0001-fuente-de-verdad.md) | Fuente de verdad y arquitectura de repositorios | **Aprobada** (según instrucción de David) | 2026-10-31 |
-| [0002](0002-identidad-de-marca.md) | Identidad de marca v1.0 (dos niveles: marca diaria D1/D2 + escudo ceremonial C1) | Propuesta | 2026-11-01 |
+| [0002](0002-identidad-de-marca.md) | Identidad de marca v1.0 (dos niveles: marca diaria D1/D2 + escudo ceremonial C1) | **Aprobada** (David) | 2026-11-01 |

@@ -1,6 +1,6 @@
 # Estado del proyecto — San Jerónimo
 
-**Fecha de corte:** 2026-10-31  
+**Fecha de corte:** 2026-11-01  
 **Etapa:** preapertura ETDH (reportada; verificar documentación)  
 **Estado de los datos:** resumen inicial comunicado por la dirección; no es una auditoría del Drive, dominio, contratos o modelo financiero.
 
@@ -19,7 +19,7 @@
 | Oferta | Software con IA, Administrativo en Salud, Marketing/Ventas, Enfermería | Factibilidad, programas a abrir, requisitos y mallas |
 | Prácticas | Posible convenio con Clínica La Esperanza | Condiciones y formalización |
 | Calendario | Inicio previsto febrero 2027; cohortes feb/ago de 30 | Licenciamiento, demanda y capacidad |
-| Marca | Sistema v1.0 completo: manual, Design System, kit de logos y plantillas de redes. Propuesto en [ADR 0002](decisions/0002-identidad-de-marca.md) | Aprobación de David; validación con público; SIC; derechos de Design Colibrí; subir el kit al Drive |
+| Marca | Identidad v1.0 **aprobada** por David el 2026-11-01 ([ADR 0002](decisions/0002-identidad-de-marca.md)): manual, Design System, kit y plantillas de redes. Kit en el Drive (07, Kit de marca) | Radicar el registro ante la SIC (búsqueda preliminar favorable, reportado); soporte escrito de Colibrí (reportado: aprobado y pagado); vigilar la percepción del público en las primeras 4 semanas |
 
 No interpretar estas cifras como aprobaciones financieras ni validar la sede o los programas antes de concluir verificaciones.
 
@@ -32,22 +32,24 @@ No interpretar estas cifras como aprobaciones financieras ni validar la sede o l
 - [ ] Recalibrar el modelo financiero, flujo de caja, demanda, costos fijos, precios y escenarios de financiación.
 - [ ] Definir alcance, contenido y diseño de la página web; crear posteriormente el repositorio privado `san-jeronimo-web`.
 - [ ] Verificar y enlazar soportes documentales en [RESOURCES.md](RESOURCES.md).
-- [ ] Decidir el [ADR 0002 — Identidad de marca v1.0](decisions/0002-identidad-de-marca.md) (solo David).
-- [ ] Validar la marca con 10 a 15 bachilleres y familias de Montería antes de producir piezas físicas.
-- [ ] Subir el kit ISJ-marca-v2 a la carpeta de marca del Drive y enlazarlo en RESOURCES.
+- [x] Aprobar el [ADR 0002 — Identidad de marca v1.0](decisions/0002-identidad-de-marca.md) (David, 2026-11-01).
+- [ ] Radicar ante la SIC la solicitud de registro de la marca mixta (clase 41).
+- [ ] Guardar en el Drive, carpeta jurídica, el soporte escrito de la aprobación de Design Colibrí.
+- [ ] Vigilar en el mercado, durante las primeras 4 semanas, la percepción de precio, religión y nivel.
+- [ ] Subir al Drive (Kit de marca › 5-Plantillas-redes) las 3 plantillas PNG corregidas: post-dato, post-programa y post-aula.
 
 ## Preguntas abiertas — no decididas
 
 1. ¿Con cuántos programas se abrirá y en qué orden?
 2. ¿Cuáles serán los precios finales? **COP 150.000/mes** es un **mínimo de trabajo reportado, no tarifa aprobada**.
 3. ¿Cómo se cubrirá la brecha estimada de **~COP 74 millones**?
-4. ¿Cuál es el estado y estrategia del registro de nombre/marca ante la **SIC**?
+4. ¿Cuándo se radica el registro de la marca ante la **SIC**? (Búsqueda preliminar favorable, reportado por David el 2026-11-01.)
 5. ¿La sede propuesta cumple todos los requisitos y es financieramente sostenible?
 6. ¿Se llegará a febrero de 2027 con los permisos exigibles?
 
 ## Cambios de esta sesión
 
-- 2026-11-01: Claude propone el [ADR 0002](decisions/0002-identidad-de-marca.md), Identidad de marca v1.0, en estado **Propuesta**. Enlaza los entregables de marca. No se registra ninguna aprobación nueva.
+- 2026-11-01: Claude audita el branding y corrige plantillas, ficha de programa y manual (ver ADR 0002, sección Auditoría). David aprueba el [ADR 0002](decisions/0002-identidad-de-marca.md) y autoriza el merge. El Drive de marca se actualiza con las versiones APROBADO.
 
 - 2026-10-31: inicialización documental del hub, conforme a instrucciones comunicadas en nombre de David. Única decisión aprobada registrada: [ADR 0001](decisions/0001-fuente-de-verdad.md).
 

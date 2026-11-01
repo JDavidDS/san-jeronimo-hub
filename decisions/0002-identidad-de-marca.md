@@ -1,10 +1,10 @@
 # ADR-0002 — Identidad de marca v1.0
 
 - **Fecha:** 2026-11-01
-- **Estado:** Propuesta
+- **Estado:** **Aprobada**
 - **Propuesto por:** Claude (proyecto San Jeronimo en claude.ai), a partir de las elecciones que David expresó en chat entre el 13 y el 30 de octubre de 2026
-- **Aprobado/rechazado por:** Pendiente (solo David)
-- **Fecha de aprobación/rechazo:** Pendiente
+- **Aprobado/rechazado por:** **David**, aprobación explícita en el chat del proyecto San Jeronimo (claude.ai), 2026-11-01
+- **Fecha de aprobación/rechazo:** 2026-11-01
 
 ## Contexto
 
@@ -48,7 +48,7 @@ San Jerónimo necesita una identidad cerrada antes de construir la página web, 
    - Ventajas: podría mejorar el símbolo.
    - Riesgos: retrasa la web y las redes. Además, ya no hay un problema de marca sin resolver que lo justifique: lo que falta por saber se resuelve validando con el público, no diseñando más.
 
-## Decisión (propuesta)
+## Decisión
 
 Adoptar la **Identidad de marca v1.0** y congelarla. A partir de la aprobación, todo cambio de logo, color o tipografía requiere un ADR nuevo.
 
@@ -64,11 +64,11 @@ Adoptar la **Identidad de marca v1.0** y congelarla. A partir de la aprobación,
 | Voz | Exigente, cercana, clara y actual. Tuteo, datos antes que adjetivos, costo total siempre visible, sin urgencia falsa |
 | Límites | No decir "universidad", "alta calidad", "acreditados", "empleo garantizado", ni "título" o "carrera" para un programa ETDH. No mostrar convenios sin firmar, programas sin registro ni símbolos religiosos |
 
-**Condiciones de la aprobación.** La versión 1.0 se puede usar desde ya en todo lo digital, donde cambiar es barato. Antes de producir piezas físicas costosas (aviso de fachada, uniformes, papelería impresa en volumen) o de radicar el registro, deben cumplirse tres condiciones:
+**Estado de las condiciones, según lo que reportó David el 2026-11-01:**
 
-1. **Validación con público:** probar la marca con 10 a 15 bachilleres y familias de Montería. Se pregunta qué tipo de institución creen que es, cuánto creen que cuesta y si la ven religiosa. Si la mayoría percibe un precio muy por encima del real, se ajustan primero el tono y la fotografía, y no el logo.
-2. **SIC:** búsqueda de antecedentes en la clase 41 y decisión sobre el registro de la marca mixta.
-3. **Colibrí:** confirmación escrita de que el proyecto puede usar y modificar la propuesta original.
+1. **Validación con público:** descartada por falta de tiempo, decisión de David. Para cubrir el riesgo se hace una vigilancia en el mercado. Durante las primeras cuatro semanas de redes y WhatsApp se registran las preguntas sobre precio ("¿es muy caro?"), religión y nivel ("¿es universidad?"). Si una de esas dudas se repite, se ajustan primero el tono y la fotografía, no el logo.
+2. **SIC:** según David, la búsqueda preliminar de antecedentes indica que la marca está disponible. Es un dato reportado, pendiente de enlazar su soporte. Falta radicar la solicitud de registro de la marca mixta en la clase 41. Se recomienda hacerlo antes de producir piezas físicas costosas.
+3. **Colibrí:** según David, Design Colibrí aprueba el uso y el trabajo está pagado. Es un dato reportado; falta guardar el soporte escrito en la carpeta jurídica del Drive.
 
 ## Motivo
 
@@ -95,6 +95,22 @@ Los artefactos están en claude.ai, en la cuenta de David, y son privados hasta 
 - Auditoría competitiva visual: https://claude.ai/artifact/W7oJStBKQSjaKLbZZjC3Sd
 - Kit ISJ-marca-v2.zip: entregado en el chat del proyecto el 2026-10-30. Pendiente de subir al Drive.
 - Ley 30 de 1992, arts. 20, 24 y 98, consultada el 2026-10-30: https://cancilleria.gov.co/sites/default/files/Normograma/docs/ley_0030_1992.htm
+
+## Auditoría previa a la aprobación (2026-11-01)
+
+Claude revisó el manual, el Design System, las plantillas, el kit y la plataforma antes de la aprobación, y corrigió lo siguiente:
+
+- **Plantilla "dato con prueba":** decía "Matrícula, materiales y certificación incluidos", una afirmación sin decidir. Ahora dice "Incluye [qué incluye]".
+- **Plantilla de programa y ficha del Design System:** decían "3 semestres", una duración no aprobada. Ahora dicen "[N] semestres".
+- **Plantilla de innovación:** pasó de presente a futuro ("En clase usarás IA..."), porque el instituto está en preapertura.
+- **Línea legal de las piezas de programa:** ahora incluye el tipo de certificado, la modalidad y la secretaría que hace la inspección y vigilancia, según la [pregunta 1.7 de MinEducación](https://www.mineducacion.gov.co/portal/micrositios-superior/Educacion-para-elTrabajo-y-el-Desarrollo-Humano/Conceptos-y-aclaraciones/411770:Preguntas-frecuentes). Además, se subió a 21 px para que se lea en el teléfono.
+- **Manual:**
+  - Se aclara que los nombres de los programas son denominaciones de trabajo.
+  - Se precisa que el vino es un color libre entre las nueve instituciones auditadas, en lugar de "en Montería".
+  - Se agrega el margen de protección del monograma y de la placa.
+  - Se resuelve la contradicción sobre Playfair Display SC: es solo ceremonial, salvo la S del recurso gráfico.
+- **Design System:** el recurso gráfico queda documentado con sus propios tokens, `marca-s-profundo` y `marca-s-vino`.
+- **Estados:** el manual, el Design System, la plataforma, el kit y la nota del proyecto pasaron a "aprobado".
 
 ## Historial
 

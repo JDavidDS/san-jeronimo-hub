@@ -34,3 +34,16 @@ Estado: **Propuesta**, pendiente de David.
 - `decisions/0002-identidad-de-marca.md`.
 - Este handoff.
 - Los artefactos y el kit están en claude.ai: ver RESOURCES.md.
+
+## Actualización 2026-11-01, 13:45
+
+- David aprobó el ADR 0002. Además informó que Colibrí aprobó el uso (pagado), que se descarta la validación con bachilleres y que la búsqueda preliminar ante la SIC es favorable.
+- Se hizo una auditoría completa y se aplicaron las correcciones; el detalle está en la sección Auditoría del ADR 0002.
+- Se actualizó el Drive de marca: las versiones APROBADO están en 07, y las anteriores en 99 | Archivo histórico.
+- Pendiente:
+  - Radicar el registro ante la SIC.
+  - Guardar el soporte escrito de Colibrí.
+  - Vigilar la percepción del público durante 4 semanas.
+  - Sesión de fotos reales.
+  - Brand Kit de Canva.
+  - Prueba de imprenta.
