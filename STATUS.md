@@ -36,7 +36,7 @@ No interpretar estas cifras como aprobaciones financieras ni validar la sede o l
 - [ ] Radicar ante la SIC la solicitud de registro de la marca mixta (clase 41).
 - [ ] Guardar en el Drive, carpeta jurídica, el soporte escrito de la aprobación de Design Colibrí.
 - [ ] Vigilar en el mercado, durante las primeras 4 semanas, la percepción de precio, religión y nivel.
-- [ ] Subir al Drive (Kit de marca › 5-Plantillas-redes) las 3 plantillas PNG corregidas: post-dato, post-programa y post-aula.
+- [x] Subir al Drive (Kit de marca › 5-Plantillas-redes) las 3 plantillas PNG corregidas: post-dato, post-programa y post-aula (2026-11-01).
 
 ## Preguntas abiertas — no decididas
 
