@@ -16,3 +16,4 @@ Un archivo Markdown por decisión; conservar el historial. Copiar [0000-template
 | --- | --- | --- | --- |
 | [0001](0001-fuente-de-verdad.md) | Fuente de verdad y arquitectura de repositorios | **Aprobada** (según instrucción de David) | 2026-10-31 |
 | [0002](0002-identidad-de-marca.md) | Identidad de marca v1.0 (dos niveles: marca diaria D1/D2 + escudo ceremonial C1) | **Aprobada** (David) | 2026-11-01 |
+| [0003](0003-comunicacion-preapertura.md) | Comunicación de preapertura: landings y blog por programa, con la línea "en proceso de registro" y sin cobros (modifica una consecuencia del ADR 0002) | **Aprobada** (David) | 2026-11-02 |
