@@ -1,6 +1,6 @@
 # Estado del proyecto — San Jerónimo
 
-**Fecha de corte:** 2026-11-01  
+**Fecha de corte:** 2026-11-02 (propuesto en PR; rige al integrarse a main)  
 **Etapa:** preapertura ETDH (reportada; verificar documentación)  
 **Estado de los datos:** resumen inicial comunicado por la dirección; no es una auditoría del Drive, dominio, contratos o modelo financiero.
 
@@ -11,21 +11,27 @@
 | Dominio | `sanjeronimoeduca.com` comprado; vencimiento **2027-10-29** | Factura y renovación |
 | Correo | Google Workspace verificado | Panel de administración, configuración y responsables |
 | Documentación | Drive institucional con **137 archivos de marca** organizados | Inventario, vigencia y permisos |
-| Sede | Propuesta: **Cra. 4 #271, piso 2**; **208,60 m²**; **COP 6 millones/mes** | Dirección exacta, contrato, uso del suelo, accesibilidad, ambientes y normas |
+| Sede | **Cra. 4 #271, piso 2**; **208,60 m²**; **COP 6 millones/mes**. **Hecho confirmado por David (2026-11-02):** el arriendo se da por asegurado y lo firma la sociedad. 3 aulas (35/35/30) | Dirección exacta, contrato, uso del suelo, accesibilidad, ambientes y normas |
 | Apertura | Inversión estimada **~COP 174 millones** | Modelo y presupuestos respaldados |
 | Recursos | Aportes previstos de socios **~COP 100 millones** | Disponibilidad, acuerdos y cronograma |
 | Brecha de capital | **~COP 74 millones** (174 − 100) | Costos definitivos, contingencias y financiamiento |
 | Proyecciones | Modelo financiero a **36 meses** arroja pérdidas bajo los supuestos actuales | Revisar archivo, escenarios y sensibilidad |
 | Oferta | Software con IA, Administrativo en Salud, Marketing/Ventas, Enfermería | Factibilidad, programas a abrir, requisitos y mallas |
 | Prácticas | Posible convenio con Clínica La Esperanza | Condiciones y formalización |
-| Calendario | Inicio previsto febrero 2027; cohortes feb/ago de 30 | Licenciamiento, demanda y capacidad |
+| Calendario | **Decisión de David (2026-11-02):** inicio en febrero de 2027 solo con al menos **300 activos**; si no se alcanzan, el inicio pasa al 2.º semestre de 2027. Capacidad: 9 grupos (3 aulas × diurno/nocturno/fines de semana) = 300 cupos | Licenciamiento; asignación de grupos y cortes 18 dic/29 ene **en Propuesta** ([estrategia v3](docs/marketing/estrategia-preapertura-v3.md)) |
+| Comunicación de preapertura | Campaña con landings y blog por programa, aprobada por los abogados (**dato reportado**). La línea visible de "en proceso de registro" la aprobó David ([ADR 0003](decisions/0003-comunicacion-preapertura.md)) | Soporte escrito de los abogados; validar los riesgos de la sección 9 de la estrategia v3; presupuesto **en Propuesta** |
+| Normativa salud | El Acuerdo 010/2026 de la CITHS deroga el Acuerdo 153/2012 ([fuente](https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/TH/acuerdo-0010-de-2026-ciths.pdf), consultada el 2026-11-02) | Que un abogado valide su efecto en Enfermería y en Administrativo en Salud |
 | Marca | Identidad v1.0 **aprobada** por David el 2026-11-01 ([ADR 0002](decisions/0002-identidad-de-marca.md)): manual, Design System, kit y plantillas de redes. Kit en el Drive (07, Kit de marca) | Radicar el registro ante la SIC (búsqueda preliminar favorable, reportado); soporte escrito de Colibrí (reportado: aprobado y pagado); vigilar la percepción del público en las primeras 4 semanas |
 
 No interpretar estas cifras como aprobaciones financieras ni validar la sede o los programas antes de concluir verificaciones.
 
 ## Próximos pasos propuestos
 
-- [ ] Constituir la sociedad y definir estructura jurídica, obligaciones y responsables.
+- [ ] Constituir la sociedad (prevista para la semana del 2 al 6 nov 2026, según David) y definir estructura jurídica, obligaciones y responsables.
+- [ ] Firmar el contrato de arriendo con la sociedad y enlazar el soporte.
+- [x] Aprobar el [ADR 0003 — Comunicación de preapertura](decisions/0003-comunicacion-preapertura.md) (David, 2026-11-02).
+- [ ] Guardar la aprobación escrita de los abogados sobre la campaña en la carpeta jurídica del Drive.
+- [ ] David decide el presupuesto de la campaña, la asignación de grupos y los cortes 18 dic/29 ene (propuestas en la estrategia v3).
 - [ ] Confirmar con la **Secretaría de Educación de Montería** requisitos, procedimiento y tiempos de licencia de funcionamiento y registro de cada programa ETDH.
 - [ ] Cerrar y validar la malla curricular de Enfermería y requisitos aplicables.
 - [ ] Definir y formalizar el convenio de prácticas con la clínica, si resulta viable.
@@ -45,9 +51,16 @@ No interpretar estas cifras como aprobaciones financieras ni validar la sede o l
 3. ¿Cómo se cubrirá la brecha estimada de **~COP 74 millones**?
 4. ¿Cuándo se radica el registro de la marca ante la **SIC**? (Búsqueda preliminar favorable, reportado por David el 2026-11-01.)
 5. ¿La sede propuesta cumple todos los requisitos y es financieramente sostenible?
-6. ¿Se llegará a febrero de 2027 con los permisos exigibles?
+6. ¿Se llegará a febrero de 2027 con los permisos exigibles **y los 300 activos**? Si no, el inicio pasa al 2.º semestre de 2027 (decisión de David, 2026-11-02).
+7. ¿Cómo afecta el Acuerdo 010/2026 de la CITHS la viabilidad y los tiempos de Enfermería y de Administrativo en Salud?
 
 ## Cambios de esta sesión
+
+- 2026-11-02 (PR `cmo/contexto-preapertura-2026-11`, Grok Bot como apoyo al CMO):
+  - CONTEXT y STATUS se actualizan con los hechos que confirmó David: sociedad, arriendo, capacidad de 300, meta de inicio y comunicación de preapertura.
+  - Se corrige la norma de salud: el Acuerdo 010/2026 deroga el 153/2012.
+  - Se añaden el [ADR 0003](decisions/0003-comunicacion-preapertura.md) (aprobado por David el 2026-11-02) y la [estrategia v3](docs/marketing/estrategia-preapertura-v3.md), cuyo presupuesto, grupos y cortes quedan como Propuesta.
+  - Se crea en Drive la carpeta [Estrategia de preapertura 2026-11](https://drive.google.com/drive/folders/1kKMMFfpgvfNSQLUxDWqp7RxwImPY8kpG).
 
 - 2026-11-01: Claude audita el branding y corrige plantillas, ficha de programa y manual (ver ADR 0002, sección Auditoría). David aprueba el [ADR 0002](decisions/0002-identidad-de-marca.md) y autoriza el merge. El Drive de marca se actualiza con las versiones APROBADO.
 
@@ -63,3 +76,4 @@ Responsable: Codex · 2026-10-31.
 - Fuente de los datos reportados y financieros: [instrucciones de inicialización](https://chatgpt.com/c/6ae54d93-65dc-83ea-98ce-2f69536b05bf), recuperadas el 2026-10-31; soportes originales y versión del modelo pendientes de validar.
 - Protección de main pendiente: la integración disponible no permite configurarla. Ramas y PR siguen siendo la regla después de esta carga.
 - Entrega: [handoff inicial](handoffs/2026-10-31-codex-carga-inicial.md).
+
