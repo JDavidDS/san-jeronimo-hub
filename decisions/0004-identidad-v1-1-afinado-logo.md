@@ -1,10 +1,10 @@
 # ADR-0004 — Identidad de marca v1.1: afinado de dibujo del logo
 
 - **Fecha:** 2026-11-06
-- **Estado:** Propuesta
+- **Estado:** **Aprobada**
 - **Propuesto por:** Claude (marca)
-- **Aprobado/rechazado por:** Pendiente (solo David). El 2026-11-06 David escribió en chat "Me gusta la v1.1"; falta su confirmación expresa para marcarla Aprobada.
-- **Fecha de aprobación/rechazo:** Pendiente
+- **Aprobado/rechazado por:** **David**, en chat, el 2026-11-06 ("Sí, apruebo la versión 1.1… Esta ya será la versión oficial").
+- **Fecha de aprobación/rechazo:** 2026-11-06
 
 ## Contexto
 
@@ -23,9 +23,9 @@ Al preparar el Kit Maestro para la imprenta y el diseñador se revisó el logo a
 2. **Afinado de dibujo, sin cambio de concepto (propuesta).** Mismo monograma, letras, colores y proporción.
 3. **Rediseño.** Descartado: la identidad está aprobada y los socios ya la conocen.
 
-## Decisión (propuesta)
+## Decisión
 
-Adoptar la **identidad v1.1** con cuatro ajustes:
+Se adopta la **identidad v1.1** con cuatro ajustes:
 
 1. La J se desplaza 8 unidades a la derecha para salir de detrás del remate de la S.
 2. Los cortes pasan de 4,2 % a 5,5 % del alto de la mayúscula.
@@ -41,10 +41,10 @@ El escudo ceremonial usa el monograma afinado. No cambian el concepto, Playfair 
 
 ## Consecuencias
 
-- Con la aprobación, el kit pasa a `ISJ_Kit-de-Marca_v1.1` en el Drive (07 › 02 Kit de marca) y la carpeta `ISJ-marca-v2` se mueve a 99 Archivo histórico.
+- El kit oficial pasa a `ISJ_Kit-de-Marca_v1.1` en el Drive (07 › 02 Kit de marca). Por decisión de David, la carpeta anterior `ISJ-marca-v2` se elimina (no se archiva) para no ocupar espacio.
 - El diseñador produce los masters `.ai`, CMYK y Pantone con la guía técnica del kit (`09_Para-el-disenador`).
 - El manual, el Design System, el lienzo de marca y las plantillas se actualizan al logo v1.1 en el punto 4 (diagramación del manual y plantillas en Adobe).
-- Mientras no se apruebe, la versión vigente sigue siendo la v1.0.
+- Las tareas del diseñador se siguen en Notion, con enlace a la guía técnica.
 
 ## Referencias
 
