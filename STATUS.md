@@ -43,6 +43,10 @@ No interpretar estas cifras como aprobaciones financieras ni validar la sede o l
 - [ ] Guardar en el Drive, carpeta jurídica, el soporte escrito de la aprobación de Design Colibrí.
 - [ ] Vigilar en el mercado, durante las primeras 4 semanas, la percepción de precio, religión y nivel.
 - [x] Subir al Drive (Kit de marca › 5-Plantillas-redes) las 3 plantillas PNG corregidas: post-dato, post-programa y post-aula (2026-11-01).
+- [ ] David decide el [ADR 0004 — Identidad v1.1](decisions/0004-identidad-v1-1-afinado-logo.md) (afinado de dibujo del logo, en Propuesta).
+- [ ] Subir al Drive el Kit Maestro `ISJ_Kit-de-Marca_v1.1` (estructura aprobada por David el 2026-11-06) y mover `ISJ-marca-v2` a 99 Archivo histórico, tras aprobar el ADR 0004.
+- [ ] El diseñador produce masters `.ai`, CMYK y Pantone con la guía técnica del kit; prueba física de imprenta.
+- [ ] Guardar en la carpeta jurídica el soporte de los abogados sobre "Preinscripción gratuita" ([ADR 0005](decisions/0005-aplicacion-linea-preapertura.md)).
 
 ## Preguntas abiertas — no decididas
 
@@ -55,6 +59,11 @@ No interpretar estas cifras como aprobaciones financieras ni validar la sede o l
 7. ¿Cómo afecta el Acuerdo 010/2026 de la CITHS la viabilidad y los tiempos de Enfermería y de Administrativo en Salud?
 
 ## Cambios de esta sesión
+
+- 2026-11-06 (PR `marca/v1.1-kit-maestro`, Claude):
+  - David aprueba la estructura del Kit Maestro de marca, con una carpeta de reglas para que modelos de IA revisen las piezas.
+  - Se propone el [ADR 0004](decisions/0004-identidad-v1-1-afinado-logo.md): logo v1.1, afinado de dibujo sin cambio de concepto.
+  - Se registra el [ADR 0005](decisions/0005-aplicacion-linea-preapertura.md), aprobado por David: botón con "Preinscripción gratuita" y piezas sin programa sin línea legal.
 
 - 2026-11-02 (PR `cmo/contexto-preapertura-2026-11`, Grok Bot como apoyo al CMO):
   - CONTEXT y STATUS se actualizan con los hechos que confirmó David: sociedad, arriendo, capacidad de 300, meta de inicio y comunicación de preapertura.
